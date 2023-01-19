@@ -1,0 +1,10 @@
+APP_NAME=GDI
+#APP_ENV=localhost
+APP_ENV=production
+APP_KEY=base64:XPy45wegYHnjmdbBQEu1AJcQZb0gUkOWzguzhesf7AA=
+APP_DEBUG=true
+#APP_URL= https://jellyfish-app-579mv.ondigitalocean.app
+
+APP_URL= https://jellyfish-app-579mv.ondigitalocean.app
+
+LOG_CHANNEL=stack
