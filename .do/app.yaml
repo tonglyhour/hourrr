@@ -4,5 +4,5 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: appsoth/paragon-laravel
+    repo: digitalocean/sample-laravel
   name: sample-laravel
